@@ -1,6 +1,6 @@
 # ChestRay
 
-A powerful bridge between doctors and patients. An AI recognition software that uses x-ray scans to detect respiratory infections. Developed by Michael Yi and Jason Chen. Won second place at [Coding Your Future Hackathon](https://coding-your-future-hackathon.devpost.com/) out of 137 participants. Subission to [StuyHacks XI](https://stuyhacks-xi.devpost.com/).
+A powerful bridge between doctors and patients. An AI recognition software that uses x-ray scans to detect respiratory infections. Developed by Michael Yi and Jason Chen. Won second place at [Coding Your Future Hackathon](https://coding-your-future-hackathon.devpost.com/) out of 137 participants. Submission to [StuyHacks XI](https://stuyhacks-xi.devpost.com/).
 
 View our video demonstration [here](https://www.youtube.com/watch?v=QvViKKw8zeM).
 
